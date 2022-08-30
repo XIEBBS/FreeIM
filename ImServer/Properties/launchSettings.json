@@ -2,7 +2,9 @@
   "profiles": {
     "imServer": {
       "commandName": "Project",
-      "commandLineArgs": "--urls=http://*:6001"
+      "commandLineArgs": "--urls=http://*:6001",
+      "environmentVariables": {
+      }
     }
   }
 }
