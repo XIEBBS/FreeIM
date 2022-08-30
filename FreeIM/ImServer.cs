@@ -1,5 +1,5 @@
 ﻿
-#if ns20
+
 
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
@@ -166,4 +166,4 @@ class ImServer : ImClient
     }
 }
 
-#endif
+
